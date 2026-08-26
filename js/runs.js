@@ -7,7 +7,7 @@
 })
 window.onload = function(){
     const frm = document.getElementById("frm")
-    this.alert("")
+
     frm.addEventListener("submit",(event)=>{
         event.preventDefalt();
 
