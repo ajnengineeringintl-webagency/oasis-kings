@@ -1,5 +1,5 @@
 //JESUS IS LORD
-import emailjs from "https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js";
+//import emailjs from "https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js";
 (function(){
     emailjs.init({
         PublicKeyCredential:"DffGOUANLHoHxj1iI"
