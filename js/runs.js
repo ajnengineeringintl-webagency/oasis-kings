@@ -7,7 +7,7 @@ import emailjs from "https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.
 })
 window.onload = function(){
     const frm = document.getElementById("frm")
-
+    this.alert("")
     frm.addEventListener("submit",(event)=>{
         event.preventDefalt();
 
