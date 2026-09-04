@@ -24,7 +24,7 @@ window.onload = function(){
                     method: "POST",
                     headers: {
                         'content-type':'application/json'
-                    },body: JSON.Stringify(py)
+                    },body: JSON.stringify(py)
                 }
             );
             const r = await res.json();
